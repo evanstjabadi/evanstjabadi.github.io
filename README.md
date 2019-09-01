@@ -1,4 +1,2 @@
-# evanstjabadi.github.io
+Github Pages hosting for my little static Website.
 
-
-Trial and error static website
